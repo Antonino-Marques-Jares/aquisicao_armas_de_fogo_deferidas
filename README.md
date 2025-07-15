@@ -1,6 +1,6 @@
 ![Requerimentos para aquisição de arma de fogo de 2019 e 2025](https://github.com/Antonino-Marques-Jares/aquisicao_armas_de_fogo_deferidas/blob/main/placa_pare.jpg?raw=true)
 
-# Requerimentos para aquisições de armas de fogo deferidas no Brasil
+# Requerimentos para aquisições de armas de fogo deferidos no Brasil
 O gráfico visa entendermos o números de autorizações para aquisições de armas de fogo pelo SINARM por Estado ao longo do tempo.
 
 # Visualize o gráfico em:
