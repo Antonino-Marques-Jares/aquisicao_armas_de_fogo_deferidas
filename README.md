@@ -4,7 +4,7 @@
 O gráfico visa entendermos o números de autorizações para aquisições de armas de fogo pelo SINARM por Estado ao longo do tempo.
 
 # Visualize o gráfico em:
-[Gráficoi](https://www.areadetrampo.com.br/mapa-de-pescadores-no-brasil/)
+[Área de Trampo](https://www.areadetrampo.com.br/mapa-de-pescadores-no-brasil/)
 
 ### Fonte das informações sobre requerimentos para aquisição de armas de fogo no Brasil
 [![Gov Br](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/sinarm)
