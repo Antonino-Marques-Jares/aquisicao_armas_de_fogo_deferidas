@@ -3,13 +3,13 @@
 # Requerimentos para aquisições de armas de fogo deferidos no Brasil
 O gráfico visa entendermos o números de autorizações para aquisições de armas de fogo pelo SINARM por Estado ao longo do tempo.
 
-# Visualize o gráfico em:
+### Visualize o gráfico em:
 [Área de Trampo - Requerimentos para aquisição de arma de fogo](https://www.areadetrampo.com.br/requerimentos-de-armas-de-fogo-autorizados/)
 
 ### Fonte das informações sobre requerimentos para aquisição de armas de fogo no Brasil:
 [![Gov Br](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/sinarm)
 
-# O código:
+### O código:
 
 - Passo 1 - Baixar os arquivos REQUERIMENTOS_com_categoria_<ano>.csv (2019 a 2025)
 - Passo 2 - Os arquivos csv de 2024 e 2025 precisaram passar por ajustes para extrair as informações.
@@ -31,9 +31,9 @@ O gráfico visa entendermos o números de autorizações para aquisições de ar
 - Passo 7 - criando dados_grafico.**json** 
 - Passo 8 - criando requerimentos_deferidos.**html** com dados_grafico.json incorporado
   
-# Autor:
+### Autor:
 **Antonino Marques Jares**
 
-# Atualizado em:
+### Atualizado em:
 **15/07/2025**
 
