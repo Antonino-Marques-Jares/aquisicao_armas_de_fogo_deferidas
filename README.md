@@ -28,8 +28,8 @@ O gráfico visa entendermos o números de autorizações para aquisições de ar
 - Passo 4 - Selecionando apenas as decisões deferidas
 - Passo 5 - Soma agrupada por 'MES_ANO','UF' e 'MUNICIPIO'
 - Passo 6 - Temos o data frame df_grafico com os seguintes campos MES_ANO,	UF,	QTD (**total mensal por Estado**)
-- Passo 7 - criando dados_grafico.json 
-- Passo 8 - crianso requerimentos_deferidos.html com dados_grafico.json incorporado
+- Passo 7 - criando dados_grafico**.json** 
+- Passo 8 - criando requerimentos_deferidos**.html** com dados_grafico.json incorporado
   
 # Autor:
 **Antonino Marques Jares**
