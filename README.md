@@ -13,11 +13,17 @@ O gráfico visa entendermos o números de autorizações para aquisições de ar
 
 - Passo 1 - Baixar os arquivos REQUERIMENTOS_com_categoria_<ano>.csv (2019 a 2025)
 - Passo 2 - Os arquivos csv de 2024 e 2025 precisaram passar por ajustes para extrair as informações.
+  
        + no Nodepad++
+  
        + subistituir  '( {2,};)' por ';'
+  
        + subistituir  ';' por '","'
+  
        + subistituir  '^([0-9]|[A-Z])' por '"$1'
+  
        + subistituir  '([0-9]|[A-Z])\r' por '$1"\r'
+  
 - Passo 3 - Soma agrupanda por 'MES','ANO','UF', 'MUNICIPIO', 'DECISAO'
 - Passo 4 - Selecionando apenas as decisões deferidas
 - Passo 5 - Soma agrupanda por 'MES_ANO','UF' e 'MUNICIPIO'
