@@ -6,7 +6,7 @@ O gráfico visa entendermos o números de autorizações para aquisições de ar
 # Visualize o gráfico em:
 [Área de Trampo - Requerimentos para aquisição de arma de fogo](https://www.areadetrampo.com.br/requerimentos-de-armas-de-fogo-autorizados/)
 
-### Fonte das informações sobre requerimentos para aquisição de armas de fogo no Brasil
+### Fonte das informações sobre requerimentos para aquisição de armas de fogo no Brasil:
 [![Gov Br](govbr.webp)](https://dados.gov.br/dados/conjuntos-dados/sinarm)
 
 # O código:
